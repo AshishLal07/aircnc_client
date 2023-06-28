@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aircnc_client/static/css/main.7163db1a.css",
-    "main.js": "/aircnc_client/static/js/main.41f20fd8.js",
+    "main.js": "/aircnc_client/static/js/main.7536d548.js",
     "static/js/787.cda612ba.chunk.js": "/aircnc_client/static/js/787.cda612ba.chunk.js",
     "index.html": "/aircnc_client/index.html",
     "main.7163db1a.css.map": "/aircnc_client/static/css/main.7163db1a.css.map",
-    "main.41f20fd8.js.map": "/aircnc_client/static/js/main.41f20fd8.js.map",
+    "main.7536d548.js.map": "/aircnc_client/static/js/main.7536d548.js.map",
     "787.cda612ba.chunk.js.map": "/aircnc_client/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7163db1a.css",
-    "static/js/main.41f20fd8.js"
+    "static/js/main.7536d548.js"
   ]
 }
