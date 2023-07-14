@@ -12,5 +12,5 @@
 ![home page](public/HomePage.png)
 
 ## Booking page of the Place
-[Booking Page](public/bookingPlace.png)
-[Booking Page](public/bookingPlace(1).png)
+![Booking Page](public/bookingPlace.png)
+![Booking Page](public/bookingPlace(1).png)
