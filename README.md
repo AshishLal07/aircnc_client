@@ -14,3 +14,30 @@
 ## Booking page of the Place
 ![Booking Page](public/bookingPlace.png)
 ![Booking Page](public/bookingPlace(1).png)
+
+## Photo Gallery page of the Place
+![Gallery](public/photoGallery.png)
+
+## All your booking in one page
+![Gallery](public/reservedPlaces.png)
+
+## All your places in one page
+![Gallery](public/YourPlace.png)
+
+## User Added places can be updated
+
+![UpdatePlace](public/UpdatePlace.png)
+![UpdatePlace](public/UpdatePlace(1).png)
+
+## Add new place to be reserved
+
+![AddPlace](public/Addplace.png))
+![AddPlace](public/Addplace(1).png))
+
+## airCnc login page
+![LoginPage](public/Login.png)
+
+## airCnc Register page
+![Register](public/Register.png)
+
+# airCnc registration page
