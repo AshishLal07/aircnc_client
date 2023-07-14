@@ -31,8 +31,8 @@
 
 ## Add new place to be reserved
 
-![AddPlace](public/Addplace.png)
-![AddPlace](public/Addplace(1).png)
+![AddPlace](public/AddPlace.png)
+![AddPlace](public/AddPlace(1).png)
 
 ## airCnc login page
 ![LoginPage](public/Login.png)
