@@ -4,9 +4,13 @@
 ## It's has been deployed 
 <a href="https://ashishlal07.github.io/aircnc_client" target="_blank">airCncDeployedPage</a>  :- wait for while or Refresh as backend works on render take time to load data
 <br/>
-  For Backend repo :-  <a href="https://github.com/AshishLal07/aircnc_backend" target="_blank">backendRepo</a>
+<a href="https://github.com/AshishLal07/aircnc_backend" target="_blank">backendRepo</a> :- For Backend repo 
     
     
 
-## homePage of the Booking App
+## HomePage of the airCnc Booking App
 ![home page](public/HomePage.png)
+
+## Booking page of the Place
+[Booking Page](public/bookingPlace.png)
+[Booking Page](public/bookingPlace(1).png)
