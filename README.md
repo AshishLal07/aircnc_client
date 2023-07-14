@@ -5,4 +5,4 @@
     [https://ashishlal07.github.io/aircnc_client]
 
 ## homePage of the Booking App
-![home page]('../public/HomePage.png')
+![home page]('aircnc_client/blob/master/HomePage.png')
