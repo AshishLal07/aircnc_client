@@ -37,7 +37,7 @@
 ## airCnc login page
 ![LoginPage](public/Login.png)
 
-## airCnc Register page
+# airCnc registration page
 ![Register](public/Register.png)
 
-# airCnc registration page
+
