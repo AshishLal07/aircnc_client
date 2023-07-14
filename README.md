@@ -3,3 +3,6 @@
 
 ## It's has been deployed 
     [https://ashishlal07.github.io/aircnc_client]
+
+## homePage of the Booking App
+['../public/HomePage.png']
